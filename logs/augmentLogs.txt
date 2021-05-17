@@ -1,0 +1,37 @@
+
+Start of the valladSeelikud\train augmentation: 21:10:52
+Time material augmentation was finished: 21:17:59
+Time it took to augment images: 0:07:07
+Start of the valladSeelikud\test augmentation: 21:17:59
+Time material augmentation was finished: 21:20:09
+Time it took to augment images: 0:02:10
+Start of the valladSeelikudVööd\train augmentation: 21:20:09
+Time material augmentation was finished: 21:29:09
+Time it took to augment images: 0:09:00
+Start of the valladSeelikudVööd\test augmentation: 21:29:09
+Time material augmentation was finished: 21:31:29
+Time it took to augment images: 0:02:20
+Start of the maakonnadSeelikud\train augmentation: 21:31:29
+Time material augmentation was finished: 21:33:44
+Time it took to augment images: 0:02:15
+Start of the maakonnadSeelikud\test augmentation: 21:33:44
+Time material augmentation was finished: 21:34:20
+Time it took to augment images: 0:00:36
+Start of the maakonnadSeelikudVööd\train augmentation: 21:34:20
+Time material augmentation was finished: 21:37:05
+Time it took to augment images: 0:02:45
+Start of the maakonnadSeelikudVööd\test augmentation: 21:37:05
+Time material augmentation was finished: 21:37:45
+Time it took to augment images: 0:00:40
+Start of the regioonidSeelikud\train augmentation: 21:37:45
+Time material augmentation was finished: 21:38:21
+Time it took to augment images: 0:00:36
+Start of the regioonidSeelikud\test augmentation: 21:38:21
+Time material augmentation was finished: 21:38:31
+Time it took to augment images: 0:00:10
+Start of the regioonidSeelikudVööd\train augmentation: 21:38:31
+Time material augmentation was finished: 21:39:16
+Time it took to augment images: 0:00:45
+Start of the regioonidSeelikudVööd\test augmentation: 21:39:16
+Time material augmentation was finished: 21:39:28
+Time it took to augment images: 0:00:12
