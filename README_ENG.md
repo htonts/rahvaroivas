@@ -35,6 +35,7 @@
 - Opencv-python
 - Keras-resnet 0.2.0
 - ImageAI 2.1.6
+- Augmentor
 
 **Commands to install all components:**
 
@@ -43,6 +44,8 @@ pip install tensorflow==2.0.4
 pip install keras==2.4.3 numpy==1.18.5 pillow==7.0.0 scipy==1.4.1 h5py==2.10.0 matplotlib==3.3.2 opencv-python keras-resnet==0.2.0 
 
 pip install imageai
+
+pip install Augmentor
 
 ### **1.1. Faster training with the help of a GPU**
 
